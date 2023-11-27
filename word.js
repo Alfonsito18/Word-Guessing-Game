@@ -41,7 +41,7 @@ const wordList = [
         hint:"Forces maintain the planets orbiting the sun"
     },
     {
-        word:"O",
+        word:"o",
         hint:"Blood type is referred to as the universal donor"
     },
     {
